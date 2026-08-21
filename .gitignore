@@ -1,0 +1,8 @@
+.DS_Store
+results/
+__pycache__/
+*.pyc
+# Third-party corpora fetched by scripts/fetch_inputs.sh; not redistributed.
+/vendor/toddcolsen-indus-script/
+/vendor/glossa-lab/
+/vendor/mayig-indus-valley-script-corpus/

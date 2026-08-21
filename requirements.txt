@@ -1,0 +1,1 @@
+Pillow>=10  # only src/render_signs.py; the analysis scripts use the standard library
